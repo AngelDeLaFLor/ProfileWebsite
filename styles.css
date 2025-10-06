@@ -580,8 +580,13 @@ body {
     font-size: 3vh;
 }
 
-/* Fix resume.html in mobile version */
+#resumeWrap2
+{
+    font-size: 3vh;
+}
 
+/* Fix resume.html in mobile version */
+/*Test*/
 
 }
 
